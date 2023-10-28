@@ -131,7 +131,7 @@ export const education = [
     school: "San Jose State University, San jose",
     date: "Aug 2022 - May 2024",
     grade: "3.6 GPA",
-    desc: "I am currently pursuing a Masters's degree in Engineering Management at San Jose State Univesity, San Jose. I have completed 2 semesters and have a GPA of 3.5. I have taken courses in Data Science, Business Analytics, Database Management Systems",
+    desc: "I am currently pursuing a Masters's degree in Engineering Management at San Jose State Univesity, San Jose. I have completed 2 semesters and have a GPA of 3.6. I have taken courses in Data Science, Business Analytics, Database Management Systems",
     degree: "Master of Science - MS, Engineering Management",
   },
   {
